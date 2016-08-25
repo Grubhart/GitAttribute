@@ -8,7 +8,7 @@
 # These files are text and should be normalized (Convert crlf => lf)
 *.css           text
 *.html          text
-*.java          text eol=lf
+*.java          text eol=crlf
 *.js            text
 *.json          text
 *.jsp           text
