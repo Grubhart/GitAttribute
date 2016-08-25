@@ -6,18 +6,18 @@
 # The above will handle all files NOT found below
 #
 # These files are text and should be normalized (Convert crlf => lf)
-*.css           text eol=lf
-*.html          text eol=lf
-*.java          text eol=clrf
-*.js            text eol=lf
-*.json          text eol=lf
-*.json          text eol=lf
-*.jsp           text eol=lf
-*.properties    text eol=lf
-*.txt           text eol=lf
-*.xml           text eol=lf
-*.gitignore     text eol=lf
-*.gitattributes text eol=lf
+*.css           text eol=crlf
+*.html          text eol=crlf
+*.java          text eol=crlf
+*.js            text eol=crlf
+*.json          text eol=crlf
+*.json          text eol=crlf
+*.jsp           text eol=crlf
+*.properties    text eol=crlf
+*.txt           text eol=crlf
+*.xml           text eol=crlf
+*.gitignore     text eol=crlf
+*.gitattributes text eol=crlf
 
 # These files are binary and should be left untouched
 # (binary is a macro for -text -diff)
@@ -31,3 +31,6 @@
 *.jpeg          binary
 *.png           binary
 *.war           binary
+
+
+
