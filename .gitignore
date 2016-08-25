@@ -50,3 +50,4 @@ fabric.properties
 ### Gradle template
 .gradle
 build/
+/.gradle/
