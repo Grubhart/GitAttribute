@@ -10,6 +10,10 @@ public class Main {
     public static void main(){
 
         System.out.println("hola mundo");
+        System.out.println("hola mundo");
+        System.out.println("hola mundo");
+
+
 
     }
 
