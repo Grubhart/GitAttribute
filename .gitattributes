@@ -14,7 +14,7 @@
 *.json          text eol=crlf
 *.jsp           text eol=crlf
 *.properties    text eol=crlf
-*.txt           text eol=lf
+*.txt           text eol=crlf
 *.xml           text eol=crlf
 *.gitignore     text eol=crlf
 *.gitattributes text eol=crlf
